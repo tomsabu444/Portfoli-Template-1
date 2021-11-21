@@ -362,7 +362,7 @@ section .title::after{
 .skills .skills-content .right .line{
     height: 5px;
     width: 100%;
-    background: lightgrey;
+    background: rgb(255, 255, 255);
     position: relative;
 }
 .skills .skills-content .right .line::before{
@@ -371,19 +371,19 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: rgb(0, 195, 255);
+    background: rgb(98, 0, 255);
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 80%;
 }
 .skills-content .right .css::before{
     width: 50%;
 }
 .skills-content .right .js::before{
-    width: 20%;
+    width: 40%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 90%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
