@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("images/4k-1.gif") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -217,7 +217,8 @@ section .title::after{
 .about{
     display: flex;
     color: rgb(255, 255, 255);
-    background: rgb(0, 0, 0);
+    background: rgb(0, 0, 0); 
+
 }
 .about
 .about .title::after{
@@ -266,7 +267,9 @@ section .title::after{
 /* services section styling */
 .services, .teams{
     color:#fff;
-    background: #000000e1;
+    background: url(images/profile-5.jpg);
+    background-attachment: fixed;
+/*    background: #000000e1;*/    
 }
 .services .title::before,
 .teams .title::before{
@@ -374,10 +377,10 @@ section .title::after{
     background: rgb(98, 0, 255);
 }
 .skills-content .right .html::before{
-    width: 80%;
+    width: 70%;
 }
 .skills-content .right .css::before{
-    width: 50%;
+    width: 80%;
 }
 .skills-content .right .js::before{
     width: 40%;

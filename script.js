@@ -33,14 +33,14 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["B.Tech Student" , "YouTuber", "Ethical Hacker" , "Game Developer", "Editor" , "Bot Dev"],
+        strings: ["B.Tech Student" , "YouTuber", "Ethical Hacker" , "Gamer" , "Editor"], 
         typeSpeed: 120,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["B.Tech Student" , "YouTuber", "Ethical Hacker", "Game Developer", "Editor", "Bot Dev"],
+        strings: ["B.Tech Student" , "YouTuber", "Ethical Hacker" , "Gamer" , "Editor"],
         typeSpeed: 120,
         backSpeed: 60,
         loop: true
