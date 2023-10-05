@@ -392,7 +392,7 @@ section .title::after{
     width: 70%;
 }
 
-/* teams section styling 
+/*teams section styling */
 .teams .title::after{
     content: "who with me";
 }
@@ -405,7 +405,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover{
-    background: crimson;
+    background: rgb(0, 195, 255);
 }
 .teams .carousel .card .box{
     display: flex;
@@ -427,7 +427,7 @@ section .title::after{
     width: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid crimson;
+    border: 5px solid rgb(0, 195, 255);
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover img{
@@ -443,7 +443,7 @@ section .title::after{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid crimson!important;
+    border: 2px solid rgb(0, 195, 255)!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -452,8 +452,8 @@ section .title::after{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: crimson!important;
-} */
+    background: rgb(0, 195, 255)!important;
+}
 
 /* contact section styling */
 .contact{
