@@ -11,7 +11,6 @@ VERSION 1 is a fully responsive personal portfolio website, responsive for all d
 ## Demo
 
  <a href="https://tomsabu444.github.io/personal-portfoli-v1/"><strong>➥ Live Demo</strong></a> 
-  <a href="https://tomsabu444.github.io/personal-portfoli-v1/"><strong>➥ Live Demo</strong></a> 
 
 
 ## License
